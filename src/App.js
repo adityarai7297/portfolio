@@ -1,7 +1,7 @@
 
 
 function App() {
-  return null;
+  return (<div>Rendering App Comp</div>);
 }
 
 export default App;
