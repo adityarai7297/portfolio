@@ -1,14 +1,14 @@
 import Container from './Container';
 import Navbar from './Navbar';
+import React from 'react';
 
-
-function App() {
+const App = () => {
   return (
-  <div>
-  <Navbar/>
-  <Container/>
-  
-  </div>);
-}
+    <div>
+    <Navbar/>
+    <Container/>
+    
+    </div>);
+};
 
 export default App;

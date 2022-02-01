@@ -1,5 +1,9 @@
-function Container() {
-    return (<div>[]</div>);
-  }
-  
-  export default Container;
+import React from 'react';
+
+const Container = () => {
+  return <div>[container]</div>;
+};
+
+export default Container;
+
+
